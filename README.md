@@ -27,6 +27,22 @@ https://bit.ly/3yyRE7j
     author_url:         Clicando no nome do autor o direciona para seu url
     author_icon:        O url do ícone do autor
 ```
+# como esta na imagem a cima
+```
+/e title: My cool title
+description: Cool embeds
+Wow! Multiline
+url: https://discordapp.com
+color: #1243ff
+timestamp: true
+footer_image: https://cdn.discordapp.com/embed/avatars/0.png
+footer: WOW! Footers!
+thumbnail: https://cdn.discordapp.com/embed/avatars/0.png
+image: https://cdn.discordapp.com/embed/avatars/0.png
+author: ABCD
+author_url: https://discordapp.com
+author_icon: https://cdn.discordapp.com/embed/avatars/0.png
+```
 
 O título deve ser colocado entre aspas duplas e deve haver um `#` na frente do código de cores
 
