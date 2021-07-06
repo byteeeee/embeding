@@ -12,7 +12,7 @@ Não posso ser responsabilizado se isso acontecer. Usar clientes e plug-ins pers
 https://bit.ly/3yyRE7j
 
 
-# Usage
+# Como usar
 ```
     /e title:           Seu título
     description:        Sua descrição
