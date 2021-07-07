@@ -44,7 +44,7 @@ author_url: https://discordapp.com
 author_icon: https://cdn.discordapp.com/embed/avatars/0.png
 ```
 
-O título deve ser colocado entre aspas duplas e deve haver um `#` na frente do código de cores
+Tudo deve ter `:` antes e deve haver um `#` na frente do código de cores
 
 ## Como faço incorporações de várias linhas?
 
