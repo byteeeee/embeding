@@ -13,7 +13,7 @@
           authors: [
               {
                   name: 'BYTE',
-                  github_username: 'bytepack'
+                  github_username: 'byteeeee'
               }
           ],
           version: '1.0',
