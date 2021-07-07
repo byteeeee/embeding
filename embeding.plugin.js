@@ -3,8 +3,8 @@
  * @author Pessoa ;)#2929
  * @version 1.0
  * @description Você manda embeds
- * @website https://github.com/bytepack
- * @source https://github.com/bytepack
+ * @website https://github.com/byteeeee/
+ * @source https://github.com/byteeeee/embeding
  */
  
  const config = {
@@ -12,14 +12,14 @@
           name: 'Embeding',
           authors: [
               {
-                  name: 'Embeding',
+                  name: 'BYTE',
                   github_username: 'bytepack'
               }
           ],
           version: '1.0',
           description: 'Você manda embeds',
-          github: 'https://github.com/bytepack',
-          github_raw: 'https://github.com/bytepack'
+          github: 'https://github.com/byteeeee/',
+          github_raw: 'https://github.com/byteeeee/embeding'
       }
   };
   
