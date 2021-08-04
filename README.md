@@ -2,7 +2,7 @@
 
 Um plug-in para Better Discord que permite enviar mensagens embed como esta:
 
-![Exemplo de embed](https://embeder.alexandretik.repl.co/jibrac.png)
+# [Exemplo de embed](https://embeder.alexandretik.repl.co/jibrac.png)
 
 # Isenção de responsabilidade!
 ## É possível que o Discord de um ban e delete sua conta por usar este plugin
